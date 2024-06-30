@@ -2,7 +2,7 @@ import openai
 import streamlit as st
 import time
 
-assistant_id = "YOur Assistant API"
+assistant_id = "asst_Iy3MXdQe7qgK7yZzyRZqvEca"
 
 client = openai
 
